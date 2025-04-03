@@ -12,7 +12,7 @@
 ## Repository Structure
 ```
 /organ_data
-  ├── Upper_Head/
+  ├── Upper/
   │     ├── brain.md
   │     ├── eyes.md
   │     ├── ears.md
@@ -20,7 +20,7 @@
   │     ├── mouth.md
   │     ├── throat.md
   │
-  ├── Body_Middle/
+  ├── Middle/
   │     ├── heart.md
   │     ├── lungs.md
   │     ├── stomach.md
@@ -30,7 +30,7 @@
   │     ├── hand
   │     ├── chest
   │
-  ├── Bottom_Legs/
+  ├── Bottom/
   │     ├── intestines.md
   │     ├── bladder.md
   │     ├── reproductive_organs.md
