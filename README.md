@@ -1,7 +1,7 @@
 # Human Body in detail
 
 ## Overview
-**BodyMap** is a repository that provides a structured knowledge base of human body organs, *their functions*, *symptoms of diseases*, and *underlying causes*.
+This is a repository that provides a structured knowledge base of human body organs, *their functions*, *symptoms of diseases*, and *underlying causes*.
 
 ## Features
 -  **Comprehensive Anatomy Data** – Covers all major human organs and their subfields.
